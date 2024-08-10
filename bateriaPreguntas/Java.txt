@@ -3,6 +3,11 @@ a) Herramientas
 	Conoces maven? como funciona y para que sirve?
 	Como resuelvo un problema de dependencias con maven?
 	Cuales son los scope de las dependencias de maven?
+	 - compile: default scope, classpath is available for both src/main and src/test
+	 - test: classpath is available for src/test
+	 - provided: like complie but provided by JDK or a container at runtime
+	 - runtime: not required for compilation only require at runtime
+	
 
 2. git
 	2.1 Estas en rama master, creas un branch llamado 'branch1', efectuas cambios en el,como son los pasos para que tus cambios se reflejen en master.
