@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=i53Gi_K3o7I
+
 https://www.tryexponent.com/blog/system-design-interview-guide
 A system design interview is usually composed of 5 steps:
 
